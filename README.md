@@ -1,4 +1,2 @@
-Hey this is redme folder in student management system
-
-
+Hey this is readme folder in student management system.Its edited
 
